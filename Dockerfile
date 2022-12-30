@@ -1,4 +1,4 @@
-FROM openjdk:11-slim
+FROM openjdk:11
 
 ENV VERSION 5.0.5
 ENV LIBJPEGTURBO 2.1.2
